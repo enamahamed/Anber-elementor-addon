@@ -2,11 +2,11 @@
 /**
  * @wordpress-plugin
  * Plugin Name:       Anber Elementor Addon
- * Plugin URI:        https://github.com/frahim
+ * Plugin URI:        https://github.com/enamahamed/Anber-elementor-addon
  * Description:       Custom widgets for Elementor
  * Version:           1.0.1
- * Author:            Md Yeasir Arafat
- * Author URI:        https://github.com/frahim/
+ * Author:  MD Enam Ahamed Chowdhury
+ * Author   URI: https://github.com/enamahamed
  * License:           GPLv3
  * License URI:       http://www.gnu.org/licenses/gpl-3.0.html
  * Text Domain:       anber-elementor-addon
